@@ -12,7 +12,7 @@
 
 **Tracking by segmentation**
 > 可用通过像素级的信息缓解拥挤和模糊背景的问题  
-> 然后带注释的MOT分割数据稀缺，使得方法依赖于bounding box
+> 然而带注释的MOT分割数据稀缺，使得方法依赖于bounding box
 
 
 ***Tracking by attention!***  
